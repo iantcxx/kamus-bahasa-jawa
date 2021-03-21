@@ -7,12 +7,12 @@
             "en": "Eat"
         },
         "description": {
-            "id": "Kata Maem biasa digunakan untuk percakapan sehari-hari, bisa dipakai oleh diri kita sendiri ketika berbicara dengan lawan bicara yang sepantaran, lebih tua, atau lebih muda. Contoh : Kula maem roti (artinya : Saya makan roti)",
+            "id": "Kata Maem biasa digunakan untuk percakapan sehari-hari, bisa dipakai oleh diri kita sendiri ketika berbicara dengan lawan bicara yang sepantaran, lebih tua, atau lebih muda.",
             "en": ""
         },
         "sample": [
-            "",
-            "",
+            "Aku lagi maem roti (id : Saya sedang makan roti -- untuk sepantaran)",
+            "Kula saweg maem roti (id : Saya sedang makan roti -- untuk yang lebih tua)",
             ""
         ],
         "reference": ""
