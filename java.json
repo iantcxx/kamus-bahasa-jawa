@@ -17,4 +17,22 @@
         ],
         "reference": ""
     }
+	{
+        "type": "ngoko lugu",
+        "jawa": "Mangan",
+        "translate": {
+            "id": "Makan",
+            "en": "Eat"
+        },
+        "description": {
+            "id": "Kata Mangan biasa digunakan untuk percakapan sehari-hari, bisa dipakai oleh diri kita sendiri ketika berbicara dengan lawan bicara yang sepantaran atau yang lebih muda.",
+            "en": ""
+        },
+        "sample": [
+            "Aku lagi mangan roti (id : Saya sedang makan roti -- untuk sepantaran)",
+            "Awakmu lagi mangan roti de (id : Kamu sedang makan roti -- untuk yang lebih muda)",
+            ""
+        ],
+        "reference": ""
+    }
 ]
